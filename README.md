@@ -1,2 +1,3 @@
 # stickeyNav
-a sticky nav bar
+
+a sticky nav bar using jQuery
